@@ -3,7 +3,7 @@ Deep learning DEMO
 
 ## Important note
 
-There is a issue when opening the notebook files on Github. Please open them on Colab via the links below.
+There is an issue when opening the notebooks directly on Github. Please open them on Colab via the links below.
 
 <img width="629" height="228" alt="image" src="https://github.com/user-attachments/assets/e41f550b-ec79-452c-a2d9-eb78198ff370" />
 
